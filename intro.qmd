@@ -7,3 +7,9 @@ See @knuth84 for additional discussion of literate programming.
 ```{r}
 1 + 1
 ```
+
+Added something **new** here!
+
+```{r}
+2 * 5
+```
