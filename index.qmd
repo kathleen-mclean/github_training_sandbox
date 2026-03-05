@@ -1,0 +1,9 @@
+# Preface {.unnumbered}
+
+This is an example Quarto book. You can edit this book to learn how to use Quarto.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+
+```{r}
+1 + 1
+```

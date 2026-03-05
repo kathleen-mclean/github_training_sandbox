@@ -1,0 +1,21 @@
+project:
+  type: book
+
+book:
+  title: "github_training_sandbox"
+  author: "Quarto Curious Staff"
+  date: last-modified
+  date-format: "[Last modified:] YYYY-MM-DD"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+
+editor: visual

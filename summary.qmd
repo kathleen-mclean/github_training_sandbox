@@ -1,0 +1,7 @@
+# Summary
+
+In summary, this book has no content whatsoever, unless you add some!
+
+```{r}
+1 + 1
+```
