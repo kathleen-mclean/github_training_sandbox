@@ -5,3 +5,9 @@ In summary, this book has no content whatsoever, unless you add some!
 ```{r}
 1 + 1
 ```
+
+Here is some new content in the book, and I can assure you, it is *very* cool.
+
+```{r}
+3 * 4
+```
